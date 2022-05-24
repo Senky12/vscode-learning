@@ -1,0 +1,61 @@
+@import url("../css/about.css");
+@import url("../css/contact.css");
+@import url("../css/footer.css");
+@import url("../css/header.css");
+
+
+
+*{
+   text-decoration: none; 
+}
+
+.container {
+    max-width: 1170px;
+    background-color: bisque;
+}
+
+
+.title{
+    font-size: 36px;
+    color: coral;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+div{
+    /* color: coral */
+    /* !important */
+}
+
+.text{
+    color: cornflowerblue;
+}
+
+#xett{
+    color: palevioletred
+}
+
+input[type='text']{
+color: coral;
+}
+
+
+/* .block{
+   /* max-width: 1000px; */
+   /* min-width: 1000px;  */
+   /* max-width: 1000px; */
+   /* height: 100px;
+    background-color: coral;
+
+.block-2{
+    width: 50%;
+    height: 50px ;
+    background-color: blue;
+} */ 

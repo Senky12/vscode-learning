@@ -1,0 +1,15 @@
+img {
+    width: 300px;
+    /* display: block; */
+    /* display: inline-block; */
+    display: inline;
+}
+
+h1 {
+   font-size: 48px;}
+
+   .koral{
+       color: blue;
+       font-size: 56px;
+       text-transform: uppercase;
+   }
